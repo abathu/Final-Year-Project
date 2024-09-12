@@ -1,9 +1,16 @@
 Here is the Yujie Chen Final Year Project.
 
 Here is file structure 
+
+
+
+
+
 ```
 .
-├── README.md 
+├── README.md
+|––––Trainscript
+|    |----- Train scrpit for train bert model
 ├── classifcation_script: all file in git hub # The folder of  script of unzip, create data and classification data to corpus
 │   ├── classification.py
 │   ├── createRedditDataframe.py
